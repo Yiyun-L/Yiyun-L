@@ -12,7 +12,6 @@ I’m a data-driven, problem-solving machine learning enthusiast with hands-on e
 
 - 🧠 **NLP pipelines and LLM-based applications** (spaCy, HuggingFace, GPT)
 - 📊 **Data science and predictive modeling** (scikit-learn, XGBoost)
-- 💻 **Deployment & DevOps for ML apps** (Flask, Streamlit, Docker)
 - 🏦 **Financial risk modeling & fraud detection** (Python, TensorFlow, SQL)
 
 Currently pursuing my master's degree at [MILA](https://mila.quebec/en), focusing on machine learning and representation learning.
