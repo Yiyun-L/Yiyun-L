@@ -31,20 +31,6 @@ Currently pursuing my master's degree at [MILA](https://mila.quebec/en), focusin
 
 ## 📌 Featured Projects
 
-### 🔹 [NHL Shot Analysis & Goal Prediction](https://github.com/your-username/your-project)
+### 🔹 [NHL Shot Analysis & Goal Prediction](https://github.com/Yiyun-L/your-project)
 Built a predictive model for goal scoring from NHL shot data  
 → Engineered features, trained models (XGBoost), visualized patterns, deployed with Streamlit & Docker
-
-### 🔹 [LLM-Powered News Monitoring System](https://github.com/your-username/your-project)
-Automated weekly news curation using GPT & prompt engineering  
-→ Summarized and scored articles, fine-tuned output, cut manual work by 50%
-
----
-
-## 📈 GitHub Stats (for fun!)
-
-![Yiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
----
-
-Thanks for visiting – feel free to check out my work or connect with me!  
