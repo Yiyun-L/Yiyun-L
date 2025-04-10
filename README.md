@@ -31,6 +31,6 @@ Currently pursuing my master's degree at [MILA](https://mila.quebec/en), focusin
 
 ## 📌 Featured Projects
 
-### 🔹 [NHL Shot Analysis & Goal Prediction](https://github.com/Yiyun-L/your-project)
+### 🔹 [NHL Shot Analysis & Goal Prediction](https://github.com/Yiyun-L/nhl-analysis)
 Built a predictive model for goal scoring from NHL shot data  
 → Engineered features, trained models (XGBoost), visualized patterns, deployed with Streamlit & Docker
