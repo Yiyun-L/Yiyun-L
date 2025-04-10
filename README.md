@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Yiyun-L/Yiyun-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Yiyun Liu
 
 🎓 M.Sc. candidate in Machine Learning at Université de Montréal (MILA)  
